@@ -2,14 +2,12 @@
 
 2 weeks of preparation.
 
-Conclusion: Javascript is a fu**ing bad language for datastructures / data manipulation.
-NETS STEP => Python ?
-
 
 Leet code bucket list : https://neetcode.io/
 
 
 # Some native Datastructures in JavaScript
+Even if Javascript is a fu**ing bad language for datastructures / data manipulation.
 
 ## Set
 
