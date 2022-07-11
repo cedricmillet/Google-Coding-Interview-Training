@@ -30,3 +30,23 @@ var permute = function(nums) {
     
     return result;
 };
+
+
+/*
+const result = []
+
+  function permute (arr, m = []) {
+    if (arr.length) {
+      arr.forEach((item, i) => {
+        const restArr = [...arr.slice(0, i), ...arr.slice(i + 1)]
+        permute(restArr, [...m, item])
+      })
+    } else {
+      result.push(m)
+    }
+  }
+
+  permute(inputArr)
+
+  return result
+*/
